@@ -1,0 +1,18 @@
+p {
+  color: #ff6600;
+  width: 500px;
+}
+
+h1 {
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;    
+  color: #ff6600;
+  text-shadow: 3px 3px 1px #b34700;
+}
+
+html
+{
+	background-color:#b3daff;
+}
+
